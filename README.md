@@ -28,7 +28,7 @@
 - The definiton of the framework and runtime for a C# program are stored in a `.csproj` file. C# project file (important for building C# program). It's the equivalent to the manifest file in Java.
 - `.cs` general extension of a C# file
 - `.cshtml` razor pages extension
-
+- C# IS case-sensitive: All variables, objects and their interactions must be referenced with the proper casing.
 
 ## Resources
 - https://learn.microsoft.com/en-us/dotnet/csharp/
