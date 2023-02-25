@@ -75,5 +75,16 @@ namespace Variables_DataTypes
             Console.WriteLine($"The range of the decimal type is {min} to {max}");
         }
         #endregion
+
+        #region Maths
+        /*.NET contains a constant for PI, Math.PI that you can use for that value. Math.PI, like all constants declared in the System.Math namespace, is a double value*/
+        public void getCircleArea()
+        {
+            double radius = 2.50;
+            double area = Math.PI * radius * radius;
+            Console.WriteLine(area);
+        }
+        #endregion
+
     }
 }
