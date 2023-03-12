@@ -96,7 +96,7 @@ namespace Conditionals
         }
 
         // Switch expression: Since C#8, using arrow expresion, no more case and break commands.
-        // Other structure but same result
+        // Swith expression returns a single value whie a switch statement controls the flow of execution but has no return a value.
         public void switchExpression()
         { 
             var dayOfWeek = DateTime.Now.DayOfWeek;
