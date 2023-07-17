@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversion", "Conversion\Conversion.csproj", "{3814AACF-3BA6-46E2-9B6B-D0DBDC6CC585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespaces", "Namespaces\Namespaces.csproj", "{027E7DC3-019C-4A79-BFCE-9E5CFC9EDBDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namespace", "Namespace\Namespace.csproj", "{C66AD80D-08DC-448F-B999-647AA41F8898}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{3814AACF-3BA6-46E2-9B6B-D0DBDC6CC585}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3814AACF-3BA6-46E2-9B6B-D0DBDC6CC585}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3814AACF-3BA6-46E2-9B6B-D0DBDC6CC585}.Release|Any CPU.Build.0 = Release|Any CPU
-		{027E7DC3-019C-4A79-BFCE-9E5CFC9EDBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{027E7DC3-019C-4A79-BFCE-9E5CFC9EDBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{027E7DC3-019C-4A79-BFCE-9E5CFC9EDBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{027E7DC3-019C-4A79-BFCE-9E5CFC9EDBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66AD80D-08DC-448F-B999-647AA41F8898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66AD80D-08DC-448F-B999-647AA41F8898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66AD80D-08DC-448F-B999-647AA41F8898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66AD80D-08DC-448F-B999-647AA41F8898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
